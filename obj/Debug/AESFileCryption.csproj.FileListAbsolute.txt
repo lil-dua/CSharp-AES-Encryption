@@ -1,0 +1,10 @@
+E:\CSharp\AESFileCryption\AESFileCryption\bin\Debug\AESFileCryption.exe.config
+E:\CSharp\AESFileCryption\AESFileCryption\bin\Debug\AESFileCryption.exe
+E:\CSharp\AESFileCryption\AESFileCryption\bin\Debug\AESFileCryption.pdb
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.csproj.AssemblyReference.cache
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.Form1.resources
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.Properties.Resources.resources
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.csproj.GenerateResource.cache
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.csproj.CoreCompileInputs.cache
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.exe
+E:\CSharp\AESFileCryption\AESFileCryption\obj\Debug\AESFileCryption.pdb
